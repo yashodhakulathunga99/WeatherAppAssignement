@@ -1,0 +1,15 @@
+# Node modules
+WeatherAppFrontend/node_modules/
+
+# Maven build files
+WeatherAppBackend/target/
+
+# IDE stuff
+.vscode/
+.idea/
+*.iml
+*.log
+
+# OS stuff
+.DS_Store
+Thumbs.db
